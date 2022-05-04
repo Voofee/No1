@@ -1,10 +1,10 @@
 package namer;
-public class Name {
+public class Unicode8 {
+  public static void main(String[] args) {
+  
+    System.out.println("\1F607");
 
-          public static void main(String[] args){
-              double a = 12; 
-              double b = 9; 
-              double c = Math.sqrt (a * a + b * b);
-              System.out.println("Gipotenuza = "+c);
-           }
-}
+    System.out.println("\1F972");
+    
+    System.out.println("\1F929");
+  }
